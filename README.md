@@ -20,20 +20,20 @@ The project focuses on clean UI design, responsive layout, and smooth user inter
 
 ## Project Structure
 
-my-project/
-│
-├── dist/
-│ └── output.css
-│
-├── src/
-│ ├── assets/
-│ ├── input.css
-│ └── main.js
-│
-├── index.html
-├── package.json
-├── package-lock.json
-├── README.md
+my-project/</br>
+│</br>
+├── dist/</br>
+│ └── output.css</br>
+│</br>
+├── src/</br>
+│ ├── assets/</br>
+│ ├── input.css</br>
+│ └── main.js</br>
+│</br>
+├── index.html</br>
+├── package.json</br>
+├── package-lock.json</br>
+├── README.md</br>
 
 
 Author
