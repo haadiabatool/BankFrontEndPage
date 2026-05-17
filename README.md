@@ -35,6 +35,7 @@ my-project/</br>
 ├── package-lock.json</br>
 ├── README.md</br>
 
+![Picture](GithubSS.jpeg)
 
 Author </br>
 Developed by: HAADIA BATOOL
